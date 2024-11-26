@@ -75,8 +75,10 @@ Cette simulation peut être utilisée pour explorer des concepts d'écologie, de
 ---
 
 ## Comment exécuter le programme ?
+1.Télécharger tous les fichiers dans le même répertoire.
 
 1. Cloner ce dépôt :
    ```bash
-   git clone https://github.com/ton-pseudo/simulation-ecosysteme.git
+   make
+   ./ecosys
 
