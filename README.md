@@ -80,5 +80,6 @@ Cette simulation peut être utilisée pour explorer des concepts d'écologie, de
 1. Cloner ce dépôt :
    ```bash
    make
+   ``bash
    ./ecosys
 
